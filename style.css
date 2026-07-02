@@ -1,0 +1,5 @@
+body{font-family:Arial,sans-serif;margin:0;background:#faf5ef;color:#333}
+header{display:flex;justify-content:space-between;padding:16px;background:#5a3b1f;color:#fff}
+nav a,.btn{color:#fff;text-decoration:none;margin-left:12px}
+.hero{padding:60px;text-align:center;background:#d9b382}
+section{padding:30px}.btn{background:#25D366;padding:10px 16px;border-radius:6px;display:inline-block}
